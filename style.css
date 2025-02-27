@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(180, 59, 59);
+    color: yellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+#homemaranha{
+    font-size: xx-large;
+    margin: 30px;
+
+}
+
+#navbar{
+    border: solid;
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+    background-color: #3d3bb4;
+    color: rgb(177, 184, 86);
+}
+
+#icon{
+    height: 120px;
+}
+
+.TexImp{
+    margin: 20px;
+}
+
+section{
+    border: solid;
+    border-color: black;
+    display: flex;
+    margin: 10px;
+    background-color: #3d3bb4;
+}
+
+.noticias{
+    background-color: #3d3bb4;
+    text-align: center;
+    padding: 10px;
+    margin: 25px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+}
+
+.notico{
+border: solid;
+border-color: rgb(0, 0, 0);
+}
+
+img{
+    height: 350px;
+    width: 380px;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
